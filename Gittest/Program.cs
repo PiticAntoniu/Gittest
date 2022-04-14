@@ -10,7 +10,7 @@ namespace Gittest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Franzela");
+            Console.WriteLine("KKO");
 
         }
     }
